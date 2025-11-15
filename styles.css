@@ -47,7 +47,7 @@
   text-decoration: none;
 }
 .Menu-Vertical li a:hover {
-  background-color: lightgreen;
+  background-color: rgb(0, 255, 255);
   color: darkgreen;
 }
 .h1 {
@@ -55,7 +55,7 @@
 }
 /*FORMULARIO*/
 .seccion-formulario {
-  background-color: rgb(232, 199, 255);
+  background-color: rgb(0, 255, 213);
   padding: 2.5rem;
   border: 3px solid rgba(137, 43, 226, 0);
   border-radius: 3.125rem;
